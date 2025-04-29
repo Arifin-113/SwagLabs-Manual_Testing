@@ -14,7 +14,7 @@ To demonstrate practical manual testing skills through:
 
 ---
 
-## 🧰 Tools & Environment
+## 📌 Tools & Environment
 
 - **Platform:** Web  
 - **Browser:** Google Chrome  
@@ -57,7 +57,7 @@ You can also browse all issues via the [GitHub Issues](https://github.com/Arifin
 
 **Arifin Mahmud**  
 Aspiring QA Engineer | Passionate about quality, bugs, and clean test cases  
-[[LinkedIn Profile](https://www.linkedin.com/in/arifin-mahmud/)](#) 
+[(https://www.linkedin.com/in/arifin-mahmud/)]
 
 ---
 
