@@ -57,7 +57,7 @@ You can also browse all issues via the [GitHub Issues](https://github.com/Arifin
 
 **Arifin Mahmud**  
 Aspiring QA Engineer | Passionate about quality, bugs, and clean test cases  
-[(https://www.linkedin.com/in/arifin-mahmud/)]
+[Arifin Mahmud](https://www.linkedin.com/in/arifin-mahmud/)
 
 ---
 
