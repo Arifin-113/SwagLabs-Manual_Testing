@@ -36,7 +36,7 @@ To demonstrate practical manual testing skills through:
 ---
 
 ### 🐞 Bug Report  
-![Bug Report](https://github.com/user-attachments/assets/b9335c7e-fb2a-4bcd-9815-2a14790012c2)
+![image](https://github.com/user-attachments/assets/811fc718-dd93-42cc-b7c2-21ea3ba4f167)
 
 Full Bug Report (DOCX): [SwagLabs_Full_Bug_Report.docx](./SwagLabs_Full_Bug_Report.docx)
 
