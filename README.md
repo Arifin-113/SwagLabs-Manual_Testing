@@ -53,7 +53,7 @@ You can also browse all issues via the [GitHub Issues](https://github.com/Arifin
 
 ---
 
-## Author
+## Author & Tester
 
 **[Arifin Mahmud](https://www.linkedin.com/in/arifin-mahmud/)**  
 Aspiring QA Engineer | Passionate about quality, bugs, and clean test cases. 
